@@ -1,6 +1,6 @@
 # APDEX CALCULATOR
 
-Projeto Java para cálculo do índice Apdex (Application Performance Index) desenvolvido para a disciplina de TDD & Teste Unitário.
+Projeto Java para cálculo do índice Apdex (Application Performance Index) desenvolvido para a disciplina de Compliance, Quality Assurance & Tests.
 
 DESCRIÇÃO
 =========
